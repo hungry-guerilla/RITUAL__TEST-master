@@ -632,8 +632,8 @@ a:hover {
       
 .parallelogram {
   position: absolute;
-	width: 450px;
-	height: 455px;
+	width: 515px;
+	height: 495px;
 	background-color: #293775;
   transform: rotate(110deg) skew(20deg, 10deg);
   z-index: -55;
